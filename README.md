@@ -4,7 +4,7 @@
 
 ## Usage
 
-`rhc create-app <app name> https://`
+`rhc create-app <app name> https://raw.githubusercontent.com/flikore/openshift-iojs/master/metadata/manifest.yml`
 
 What this cartridge provides out of the box
 ---
