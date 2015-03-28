@@ -17,7 +17,6 @@
                  'node_use_dtrace': 'false',
                  'node_use_etw': 'false',
                  'node_use_lttng': 'false',
-                 'node_use_mdb': 'false',
                  'node_use_openssl': 'true',
                  'node_use_perfctr': 'false',
                  'openssl_no_asm': 0,
