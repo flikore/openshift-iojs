@@ -4,12 +4,12 @@
 
 ## Usage
 
-`rhc create-app <app name> http://tinyurl.com/OpenShiftIOJS`
+`rhc create-app <app name> https://`
 
 What this cartridge provides out of the box
 ---
 1. **io.js** ([latest stable](http://semver.io/iojs/stable) currently 1.4.3)
-2. **npm** (latest stable currently 2.6.1)
+2. **npm** (latest stable currently 2.7.1)
 3. **grunt**
 4. **bower**
 
@@ -24,7 +24,7 @@ What this cartridge does out of the box
 
 Note
 ---
-For now I just dropped the contents of the iojs-v1.4.3.tar.xz [here](bin/iojs). Once io.js stabalizes I will move to resolving the latest stable and downloading on the gear.
+For now I just dropped the contents of the iojs-v1.6.2-linux-x64.tar.xz [here](bin/iojs). Once io.js stabalizes I will move to resolving the latest stable and downloading on the gear.
 
 Thanks!
 ---
